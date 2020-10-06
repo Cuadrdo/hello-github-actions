@@ -1,5 +1,5 @@
-jobs:
-  build:
+jobs: add-workflow
+  build: 
     name: Hello world action
     runs-on: ubuntu-latest
     steps:
